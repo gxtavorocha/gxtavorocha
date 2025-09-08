@@ -4,7 +4,6 @@
 - 🌱 Estudando Java, Spring Boot , MySql e NoSql
 - 💻 Entusiasta Em tecnologia
 
-#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gxtavorocha&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -18,6 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gxtavorocha/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rocha.gustavo.oliv@gmail.com)
 
----
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gxtavorocha&theme=dark)
+
+
