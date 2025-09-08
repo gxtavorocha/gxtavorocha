@@ -6,8 +6,8 @@
 
 
 <div >
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=gxtavorocha&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxtavorocha&layout=compact&theme=dracula" alt="Top Languages">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=gxtavorocha&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxtavorocha&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
