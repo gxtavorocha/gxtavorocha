@@ -1,9 +1,5 @@
 ## Olá! eu sou o Gustavo Rocha 👋
 
-  - ☕ Atualmente Desenvolvendo Softwares em Java
-  - 🌱 Estudando Java, Spring Boot , MySql e NoSql
-  - 💻 Entusiasta Em tecnologia
-
 
 <div >
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=gxtavorocha&show_icons=true&theme=radical" alt="GitHub Stats">
