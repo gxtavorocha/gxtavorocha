@@ -1,8 +1,8 @@
 ## Olá! eu sou o Gustavo Rocha 👋
 
-- ☕ Atualmente Desenvolvendo Softwares em Java
-- 🌱 Estudando Java, Spring Boot , MySql e NoSql
-- 💻 Entusiasta Em tecnologia
+  - ☕ Atualmente Desenvolvendo Softwares em Java
+  - 🌱 Estudando Java, Spring Boot , MySql e NoSql
+  - 💻 Entusiasta Em tecnologia
 
 
 <div align="center">
