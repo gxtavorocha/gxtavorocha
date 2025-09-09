@@ -95,7 +95,6 @@ Me chamo Gustavo Rocha De Oliveira, tenho 20 anos e sou natural do Distrito Fede
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
