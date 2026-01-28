@@ -21,6 +21,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5&logoColor=white)
 
 **DevOps**
 
@@ -30,6 +31,7 @@
 
 **Ferramentas de desenvolvimento**
 
+![Excalidraw](https://img.shields.io/badge/-Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
