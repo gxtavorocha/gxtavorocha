@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  **❄️ Linguagens De Programação : Java**
+  ❄️ Linguagens De Programação : Java
 </p>
 
 <p align="left">
-  **💼 Ferramentas: SpringBoot, Postman, PostgreSQL.**
+  💼 Ferramentas: SpringBoot, Postman, PostgreSQL.
 </p>
 
 <p align="left">
