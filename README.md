@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java**
+  ❄️ Linguagens De Programação : **Java**
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Entre com contato comigo por email: ⤵️
+  💌 Entre com contato comigo por email: 
 </p>
 
 <p align="left">
