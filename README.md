@@ -11,13 +11,14 @@
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
 **Ferramentas**
+
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=springboot)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
