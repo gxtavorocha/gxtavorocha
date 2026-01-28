@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto de Ensino Superior de Brasília.
+- 💼 Atuando como desenvolvedor freelancer backend.
+- 🌱 Aprendendo mais sobre Spring security, JUnit, Java.
 
 ## Minhas Skills
 
@@ -32,7 +32,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=plastic)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
