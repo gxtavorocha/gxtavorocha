@@ -52,66 +52,10 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot" />
-      <br>Spring
-    </td>
-    <td align="center" width="80">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
-      <br>HTML
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
-      <br>CSS
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45" alt="Sass" />
-      <br>Sass
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,sass,postgres,redis,docker,aws,git,linux,figma&perline=14" 
+    alt="Java, Spring Boot, Angular, TypeScript, HTML, CSS, Sass, PostgreSQL, Redis, Docker, AWS, Git, Linux and Figma"
+    width="900"
+  />
+</p>
